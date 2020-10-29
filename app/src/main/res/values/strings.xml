@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SVGEditor</string>
+    <string name="alien_body">Alien Body</string>
+    <string name="body">Body</string>
+    <string name="eye_border">Eye Border</string>
+    <string name="pupil">Pupil</string>
+    <string name="small_dot">Small Dot</string>
+    <string name="larger_dot">Larger Dot</string>
+</resources>

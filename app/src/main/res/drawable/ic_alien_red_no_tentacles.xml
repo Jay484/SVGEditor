@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:name="alien"
+    android:width="255.27966dp"
+    android:height="238.97902dp"
+    android:viewportWidth="255.27966"
+    android:viewportHeight="238.97902">
+  <path
+      android:name="body"
+      android:pathData="m118.112,0.004c-116.639,0.578 -153.381,112.79 -80.858,223.814 0.176,6.458 14.388,11.67 31.893,11.67 13.175,0 24.47,-2.959 29.333,-7.174 1.541,5.983 15.158,10.666 31.739,10.666 16.096,0 29.41,-4.409 31.586,-10.14 4.652,4.384 16.187,7.485 29.692,7.485 14.531,0 26.791,-3.598 30.639,-8.514l0.025,0c0.072,-0.101 0.157,-0.228 0.23,-0.335 0.01,-0.015 0.015,-0.033 0.025,-0.048 18.452,-26.858 101.801,-227.91 -98.673,-227.377 -1.903,-0.049 -3.769,-0.057 -5.631,-0.048z"
+      android:fillColor="#e91424"
+      android:strokeColor="#00000000"/>
+  <path
+      android:name="eyeBorder"
+      android:pathData="m209.987,77.612c-0.291,36.596 -30.719,65.993 -67.963,65.658 -37.244,-0.334 -67.201,-30.273 -66.911,-66.869 0.291,-36.596 30.719,-65.993 67.963,-65.658 37.244,0.334 67.201,30.273 66.911,66.869z"
+      android:fillColor="#ffffff"
+      android:strokeColor="#00000000"
+      android:fillType="evenOdd"/>
+  <path
+      android:name="eyePupil"
+      android:pathData="m186.002,72.487c-0.182,23.144 -19.225,41.735 -42.533,41.524 -23.309,-0.211 -42.057,-19.145 -41.875,-42.29 0.182,-23.144 19.225,-41.735 42.533,-41.524 23.309,0.211 42.057,19.145 41.875,42.29z"
+      android:fillColor="#000000"
+      android:strokeColor="#00000000"
+      android:fillType="evenOdd"/>
+  <path
+      android:name="eyeLargerDot"
+      android:pathData="M171.385,68.022L171.181,68.641A8.356,8.643 68.07,0 1,160.343 74.283L160.343,74.283A8.356,8.643 68.07,0 1,154.814 63.835L155.018,63.216A8.356,8.643 68.07,0 1,165.856 57.574L165.856,57.574A8.356,8.643 68.07,0 1,171.385 68.022z"
+      android:fillColor="#ffffff"
+      android:strokeColor="#00000000"
+      android:fillType="evenOdd"/>
+  <path
+      android:name="eyeSmallDot"
+      android:pathData="M148.682,59.102L148.548,59.507A5.478,5.666 68.07,0 1,141.443 63.206L141.443,63.206A5.478,5.666 68.07,0 1,137.818 56.357L137.952,55.951A5.478,5.666 68.07,0 1,145.057 52.252L145.057,52.252A5.478,5.666 68.07,0 1,148.682 59.102z"
+      android:fillColor="#ffffff"
+      android:strokeColor="#00000000"
+      android:fillType="evenOdd"/>
+</vector>
